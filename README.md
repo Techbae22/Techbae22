@@ -28,8 +28,6 @@ Vscode
 
 ⚡ Fun fact: I love anime/manga, meeting people, Music, Traveling.
 
-Technologies and Tools:
-![This is an image](https://excel.com/assets/images/base-octocat.svg)
 
 
 
