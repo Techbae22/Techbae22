@@ -1,4 +1,4 @@
-I am a AI| Data Scientist | Data Analyst with knowledge of Python, SQL, Excel and Google sheets. I aim to use my experience and knowledge to deliver the best results in any project. I keep studying and acquiring more skillsets to help validate my skill set.
+I am a AI | Data Scientist | Data Analyst with knowledge of Python, SQL, Excel and Google sheets. I aim to use my experience and knowledge to deliver the best results in any project. I keep studying and acquiring more skillsets to help validate my skill set.
 
 The skills I offer as a Data Scientist are:
 
@@ -23,9 +23,4 @@ Vscode
 
 🌱 I’m currently learning: Machine Learning, Tableau. Also Python(Its a never ending learning process). I intend to add Javascript, Docker, Cloud, R in the nearest future
 📫 How to reach me: andrangwumezie@gmail.com
-⚡ Fun fact: I love anime/manga, meeting people, Music, Traveling
-
-
-Techbae22/Techbae22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+⚡ Fun fact: I love anime/manga, meeting people, Music, Traveling.
