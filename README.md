@@ -22,5 +22,7 @@ Vscode
 ######################################################################################################
 
 🌱 I’m currently learning: Machine Learning, Tableau. Also Python(Its a never ending learning process). I intend to add Javascript, Docker, Cloud, R in the nearest future
+
 📫 How to reach me: andrangwumezie@gmail.com
+
 ⚡ Fun fact: I love anime/manga, meeting people, Music, Traveling.
