@@ -29,7 +29,7 @@ Vscode
 ⚡ Fun fact: I love anime/manga, meeting people, Music, Traveling.
 
 Technologies and Tools:
-[GitHub Pages](https://pages.github.com/)
+[Excel](https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F3%2F31%2FMicrosoft_Office_Excel_%25282013%25E2%2580%25932019%2529.svg%2F1200px-Microsoft_Office_Excel_%25282013%25E2%2580%25932019%2529.svg.png&imgrefurl=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3AMicrosoft_Office_Excel_(2013%25E2%2580%25932018).svg&tbnid=qv6WDeD6odh80M&vet=12ahUKEwj0t_u3s_b2AhVVY_EDHcfqD48QMygCegUIARDRAQ..i&docid=cRyDMBSIQfumXM&w=1200&h=1200&q=excel&hl=en&ved=2ahUKEwj0t_u3s_b2AhVVY_EDHcfqD48QMygCegUIARDRAQ)
 
 
 
