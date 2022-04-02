@@ -19,6 +19,7 @@ DbVisualizer
 Jupyter Lab/Jupyter Notebook
 Google Sheets
 Vscode
+
 ######################################################################################################
 
 🌱 I’m currently learning: Machine Learning, Tableau. Also Python(Its a never ending learning process). I intend to add Javascript, Docker, Cloud, R in the nearest future
