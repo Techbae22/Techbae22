@@ -22,7 +22,7 @@ Vscode.
 
 ######################################################################################################
 
-🌱 I’m currently learning: Machine Learning, Tableau, Docker and Node.js. Also Python(Its a never ending learning process).
+🌱 I’m currently learning: Machine Learning, Tableau, Docker and Node.js. 
 
 📫 How to reach me: andrangwumezie@gmail.com
 
