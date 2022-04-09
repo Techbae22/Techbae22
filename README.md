@@ -1,4 +1,4 @@
-I am a AI | Data Scientist | Data Analyst with knowledge of Python, SQL, Excel and Google sheets. I aim to use my experience and knowledge to deliver the best results in any project. I keep studying and acquiring more skillsets to help validate my skill set.
+I am a AI | Data Scientist | Data Analyst with knowledge of Python, SQL, Excel and Google sheets. I aim to use my experience and knowledge to deliver the best results in any project. I keep studying and acquiring more skills to help validate my skill set.
 
 The skills I offer as a Data Scientist are:
 
