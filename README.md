@@ -8,7 +8,7 @@ Data wrangling, cleaning, tidying,
 Data interpretation,
 Data mining,
 Descriptive summary statistics and other analyses,
-Data visualization (Excel, Google Sheets, Python),
+Data visualization (Excel, Google Sheets, Python).
 
 I have also familiarized myself with popular platforms such as:
 
