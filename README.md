@@ -2,13 +2,13 @@ I am a AI | Data Scientist | Data Analyst with knowledge of Python, SQL, Excel a
 
 The skills I offer as a Data Scientist are:
 
-Data Collection & Insights
-Exploratory data analysis
-Data wrangling, cleaning, tidying
-Data interpretation
-Data mining
-Descriptive summary statistics and other analyses
-Data visualization (Excel, Google Sheets, Python)
+Data Collection & Insights,
+Exploratory data analysis,
+Data wrangling, cleaning, tidying,
+Data interpretation,
+Data mining,
+Descriptive summary statistics and other analyses,
+Data visualization (Excel, Google Sheets, Python),
 
 I have also familiarized myself with popular platforms such as:
 
