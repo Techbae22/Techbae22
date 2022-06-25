@@ -1,6 +1,6 @@
-I am a AI | Data Scientist | Data Analyst with knowledge of Python, SQL, Excel and Google sheets. I aim to use my experience and knowledge to deliver the best results in any project. I keep studying and acquiring more skills to help validate my skill set.
+I am a Cloud | DevOps| AI & Data Scientist | Data Analyst with knowledge of Python, SQL, Excel and Google sheets. I aim to use my experience and knowledge to deliver the best results in any project. I keep studying and acquiring more skills to help validate my skill set.
 
-The skills I offer as a Data Scientist are:
+The skills I offer are:
 
 Data Collection & Insights,
 Exploratory data analysis,
@@ -18,11 +18,12 @@ Anaconda,
 DbVisualizer,
 Jupyter Lab/Jupyter Notebook,
 Google Sheets,
+Tableau
 Vscode.
 
 ######################################################################################################
 
-🌱 I’m currently learning: Machine Learning, Tableau, Docker and Node.js. 
+🌱 I’m currently learning: Cloud Computing, DevOps, Agile Development & Scrum, Docker. 
 
 📫 How to reach me: andrangwumezie@gmail.com
 
