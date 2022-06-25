@@ -1,4 +1,4 @@
-I am a Cloud | DevOps| AI & Data Scientist | Data Analyst with knowledge of Python, SQL, Excel and Google sheets. I aim to use my experience and knowledge to deliver the best results in any project. I keep studying and acquiring more skills to help validate my skill set.
+I am a Cloud | DevOps | AI & Data Scientist | Data Analyst with knowledge of Python, SQL, Excel and Google sheets. I aim to use my experience and knowledge to deliver the best results in any project. I keep studying and acquiring more skills to help validate my skill set.
 
 The skills I offer are:
 
@@ -16,7 +16,7 @@ Google Colab,
 Microsoft Excel,
 Anaconda,
 DbVisualizer,
-Jupyter Lab/Jupyter Notebook,
+Jupyter Notebook,
 Google Sheets,
 Tableau
 Vscode.
