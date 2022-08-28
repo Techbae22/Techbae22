@@ -6,6 +6,7 @@ Experience with Amazon Web Services (AWS) and other virtualization-based technol
 
 Amazon Web Services such as Elastic Compute (EC2), Simple Storage Services (S3), Cloud Front, 
 Virtual Private Cloud (VPC), RDS, Dynamo DB, IAM Roles, Users, Cloud Watch
+
 Data Collection & Insights,
 Exploratory data analysis,
 Data wrangling, cleaning, tidying,
