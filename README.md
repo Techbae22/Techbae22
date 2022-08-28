@@ -3,6 +3,7 @@ I am a Cloud | DevOps | AI & Data Scientist with knowledge of Python, Javascript
 The skills I offer are:
 
 Experience with Amazon Web Services (AWS) and other virtualization-based technologies like Microsoft Azure, GCP.
+
 Amazon Web Services such as Elastic Compute (EC2), Simple Storage Services (S3), Cloud Front, 
 Virtual Private Cloud (VPC), RDS, Dynamo DB, IAM Roles, Users, Cloud Watch
 Data Collection & Insights,
